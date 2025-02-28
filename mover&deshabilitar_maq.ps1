@@ -1,4 +1,11 @@
-﻿# Ruta con las cuentas de equipo a deshabilitar
+ #*******Begin Comment**************
+.SYNOPSIS
+#	This script performs the  uninstallation of an application(s).
+#  Script for Ünistall MS TEAMS Clasic 
+# version MS TEAMS  1.6.0.1381
+# Autor: Saith Barreto
+# Fecha: Septiembre 2024
+#*******End Comment**************# Ruta con las cuentas de equipo a deshabilitar
 $Computers = "C:\Users\ESGETDWINDOMADM02\Documents\Saith\Script\Maquinas_inactivas.txt"
  
 # Nombre de la OU donde se moverán las máquinas
