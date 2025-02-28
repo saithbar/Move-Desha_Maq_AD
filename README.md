@@ -7,22 +7,11 @@ Script hecho el powershell para leer desde un Txt los usuarios de AD para deshab
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-**Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
-
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
 
 
-## Dependencies
+![Image](https://github.com/user-attachments/assets/02e842b1-394a-4e22-91eb-adbdc0b9ba87)
 
-Describe any dependencies that must be installed for this software to work.
-This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
-If specific versions of other software are required, or known not to work, call that out.
 
-## Installation
-
-Detailed instructions on how to install, configure, and get the project running.
-This should be frequently tested to ensure reliability. Alternatively, link to
-a separate [INSTALL](INSTALL.md) document.
 
 ## Configuration
 
