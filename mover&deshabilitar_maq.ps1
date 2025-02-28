@@ -1,6 +1,6 @@
  #*******Begin Comment**************
 .SYNOPSIS
-#	This script performs the  uninstallation of an application(s).
+#	This script moves and disables from a txt
 #  Script for Move And Disable Maquine desde un TXT
 # version V01
 # Autor: Saith Barreto
